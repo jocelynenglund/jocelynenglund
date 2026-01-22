@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jocelynenglund
 - 👀 I’m interested in all things technology 
-- 🌱 I’m currently learning to use specflow and other testing frameworks 
+- 🌱 I’m currently learning event modeling and event sourcing and you should too.
 - 📫 How to reach me on Bluesky @jawss.bsky.social
 
 <!---
